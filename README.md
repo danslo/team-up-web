@@ -1,7 +1,7 @@
 # TeamUp Web
 v1.18.0
 
-## Prerequisits
+## Prerequisites
 
 1. Install npm: https://nodejs.org/download/release/latest/
 2. npm install -g grunt-cli
